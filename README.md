@@ -226,7 +226,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!-- https://github.com/ChibuezeAgwuDennis/github-activity-readme -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
